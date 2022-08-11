@@ -38,7 +38,6 @@ int append_hexa_code(char ascii_code, char buffer[], int i)
 	return (3);
 }
 
-
 /**
  * is_digit - Verifies if a char is a digit
  * @c: Char to be evaluated
@@ -52,6 +51,7 @@ int is_digit(char c)
 
 	return (0);
 }
+
 
 /**
  * convert_size_number - Casts a number to the specified size

@@ -44,10 +44,7 @@ int print_int(va_list types, char buffer[],
 }
 
 
-
 /************************* PRINT BINARY *************************/
-
-
 
 /**
  * print_binary - Prints an unsigned number
