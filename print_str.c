@@ -115,7 +115,6 @@ int write_pointer(char buffer[], int ind, int length,
 }
 
 
-
 /**
  * handle_write_char - Prints a string
  * @c: char types.

@@ -78,8 +78,6 @@ int print_octal(va_list types, char buffer[],
 }
 
 
-
-
 /**
  * print_hexadecimal - Prints an unsigned number in hexadecimal notation
  * @types: Lista of arguments
@@ -96,7 +94,6 @@ int print_hexadecimal(va_list types, char buffer[],
 	return (print_hexa(types, "0123456789abcdef", buffer,
 		flags, 'x', width, precision, size));
 }
-
 
 
 
